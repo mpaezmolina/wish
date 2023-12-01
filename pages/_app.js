@@ -10,8 +10,8 @@ function MyApp({ Component, pageProps }) {
       <GA />
       <Layout>
         <Head>
-          <title>Gang2s</title>
-          <meta name="description" content="Gangs." />
+          <title>Wish</title>
+          <meta name="description" content="Wish." />
         </Head>
         <Component {...pageProps} />
       </Layout>
